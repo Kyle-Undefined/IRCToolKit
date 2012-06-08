@@ -1,0 +1,10 @@
+c:\users\kyle\documents\visual studio 2010\Projects\IRCToolKitSolution\IRCToolKit\bin\Debug\IRCToolKit.dll
+c:\users\kyle\documents\visual studio 2010\Projects\IRCToolKitSolution\IRCToolKit\bin\Debug\IRCToolKit.pdb
+c:\users\kyle\documents\visual studio 2010\Projects\IRCToolKitSolution\IRCToolKit\bin\Debug\IRCToolKit.xml
+c:\users\kyle\documents\visual studio 2010\Projects\IRCToolKitSolution\IRCToolKit\obj\Debug\ResolveAssemblyReference.cache
+c:\users\kyle\documents\visual studio 2010\Projects\IRCToolKitSolution\IRCToolKit\obj\Debug\IRCToolKit.Resources.resources
+c:\users\kyle\documents\visual studio 2010\Projects\IRCToolKitSolution\IRCToolKit\obj\Debug\GenerateResource.read.1.tlog
+c:\users\kyle\documents\visual studio 2010\Projects\IRCToolKitSolution\IRCToolKit\obj\Debug\GenerateResource.write.1.tlog
+c:\users\kyle\documents\visual studio 2010\Projects\IRCToolKitSolution\IRCToolKit\obj\Debug\IRCToolKit.dll
+c:\users\kyle\documents\visual studio 2010\Projects\IRCToolKitSolution\IRCToolKit\obj\Debug\IRCToolKit.xml
+c:\users\kyle\documents\visual studio 2010\Projects\IRCToolKitSolution\IRCToolKit\obj\Debug\IRCToolKit.pdb
